@@ -1,0 +1,6 @@
+{
+    "require": {
+        "google/auth": "^1.47",
+        "kreait/firebase-php": "^7.21"
+    }
+}

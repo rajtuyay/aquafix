@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1028996861113",
+    "project_id": "graceful-fold-459906-k9",
+    "storage_bucket": "graceful-fold-459906-k9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028996861113:android:7c7eae76e7350dc3b75f68",
+        "android_client_info": {
+          "package_name": "com.aquafix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANq7upPTS03jW3HOnFA98Is8uk3khzLcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
